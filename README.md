@@ -9,7 +9,6 @@ with `core.example.net` in this public repository.
 ## Prerequisites: Docker, docker-compose, haproxy
 ```
 # apt install docker-ce haproxy libffi-dev libssl-dev python3{,-dev,-pip}
-# apt install docker-ce haproxy
 # pip3 install docker-compose
 ```
 
